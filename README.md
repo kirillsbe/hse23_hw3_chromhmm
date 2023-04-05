@@ -26,3 +26,7 @@ https://colab.research.google.com/drive/1B3nOZil8hkCUWZCN0_IcqOryqFjOj4-6?usp=sh
 Картинка из геномного браузера:
 
 ![image](https://user-images.githubusercontent.com/91340562/230072368-254dea1a-2987-42f7-9b16-17d3aae70dbc.png)
+ 
+Картинка бонусной части:
+
+![image](https://user-images.githubusercontent.com/91340562/230074838-0ee7a998-ecec-444e-b32c-89ff6da24402.png)

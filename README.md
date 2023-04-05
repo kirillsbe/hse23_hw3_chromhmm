@@ -18,3 +18,7 @@ https://colab.research.google.com/drive/1B3nOZil8hkCUWZCN0_IcqOryqFjOj4-6?usp=sh
 ![emissions_10](https://user-images.githubusercontent.com/91340562/230063374-fe1c92a1-6e48-41b3-9cf7-b8754abff30f.png)
 
 ![transitions_10](https://user-images.githubusercontent.com/91340562/230063406-cf4091c5-d5d2-4c10-a4c8-ff803fb5aa49.png)
+ 
+ Табличка с результатами:
+ 
+ ![image](https://user-images.githubusercontent.com/91340562/230067604-28206ee9-4e4f-49a3-b8bf-3e2b681efe51.png)

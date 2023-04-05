@@ -22,3 +22,7 @@ https://colab.research.google.com/drive/1B3nOZil8hkCUWZCN0_IcqOryqFjOj4-6?usp=sh
  Табличка с результатами:
  
  ![image](https://user-images.githubusercontent.com/91340562/230067604-28206ee9-4e4f-49a3-b8bf-3e2b681efe51.png)
+
+Картинка из геномного браузера:
+
+![image](https://user-images.githubusercontent.com/91340562/230072368-254dea1a-2987-42f7-9b16-17d3aae70dbc.png)
